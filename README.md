@@ -1,2 +1,8 @@
 # pfa-week02
 Fiori Sims Week 2 Homework for Programming for Animators FA26 
+Paste into the Python tab of Maya's Script Editor and run Open an additional Python tab to run the GUI. 
+I wanted to continue my plant generation tests, so I used my existing tree GUI to create a cactus GUI that can adjust the size and count of the cactus arms as well as 2 new additions: a slider to determine the depth of the ridges of the cactus as well as protruding spikes that I can change the size and radius of. 
+I started by telling my agent to research cactus shapes so it allowed me to create 2 shape variants that it labelled Saguaro and Barrel. 
+This was very challenging to get right. The main issue I was running into during the first few tests was that the top of the cactus was flat. Each time I tried to adjust it, the code would cause the tops of the cactus to have mushroom-like dome shapes that were incorrect and I was unable to adjust the size of it. This would repeatedly happen no matter what I told the agent to change, so I had to start over. 
+Another issue I ran into initially that was very easy to solve was the spikes initially generated vertically and did not appear to be raised surfaces. 
+I'm very sorry for this but I was unable to record this version of the code not working properly before I fixed it even though it was part of the assignment to record what didn't work. I asked my agent to add those back in as selectable nodes just so I could record what it looked like initially but it did not look the way it originally looked. Really sorry about this again, I just wanted to make sure I was able to show the version that wasn't working properly but I was unable to do so. Please don't take too many points off my assignment :(
